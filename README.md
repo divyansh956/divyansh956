@@ -2,7 +2,7 @@
 <img align = "right"  src = "https://api.visitorbadge.io/api/combined?path=divyansh9565&label=GitHub&labelColor=%23d9e3f0&countColor=%2337d67a&style=flat-square&labelStyle=upper"  />
 # 💫 About Me:  [![](https://visitcount.itsvg.in/api?id=divyansh956&label=Profile%20Views&icon=0&pretty=false)](https://visitcount.itsvg.in)
 ---
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=700&color=F76D2C&background=000000&vCenter=true&width=435&lines=I+am+Divyansh+Saxena;I+am+a+Front+End+Developer.;My+Passion+is+Compettive+Programming.+)](https://git.io/typing-svg)<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=700&color=F76D2C&background=000000&vCenter=true&width=435&lines=I+am+Divyansh+Saxena;I+am+a+Front+End+Developer.;My+Passion+is+Competitive+Programming.+)](https://git.io/typing-svg)<br>
 
 ### -> Currently Learning Data Science <br>
 ### -> Looking for Collaboration in Front-End-Design.<br><br>  
@@ -26,6 +26,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=divyansh956&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=divyansh956&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=divyansh956&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🥇 Holopin Badges From HACKTOBERFEST
+[![@divyansh956's Holopin board](https://holopin.me/divyansh956)](https://holopin.io/@divyansh956)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=divyansh956&theme=juicyfresh&no-frame=true&no-bg=false&margin-w=4)
