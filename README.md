@@ -1,10 +1,13 @@
-
-
+![Divyansh Saxena](https://github.com/divyansh956/divyansh956/blob/main/img/github.png)
+<img align = "right"  src = "https://api.visitorbadge.io/api/combined?path=divyansh9565&label=GitHub&labelColor=%23d9e3f0&countColor=%2337d67a&style=flat-square&labelStyle=upper"  />
 # 💫 About Me:  [![](https://visitcount.itsvg.in/api?id=divyansh956&label=Profile%20Views&icon=0&pretty=false)](https://visitcount.itsvg.in)
 ---
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=700&color=F76D2C&background=000000&vCenter=true&width=435&lines=I+am+Divyansh+Saxena;I+am+a+Front+End+Developer.;My+Passion+is+Compettive+Programming.+)](https://git.io/typing-svg)<br>
 
--> Currently Learning Data Science <br>-> Looking for collaboration in Front-End-Design.<br><br>  Competitive links : <br>                                                    [    Codeforces   ](https://codeforces.com/profile/divyansh956) |
+### -> Currently Learning Data Science <br>
+### -> Looking for Collaboration in Front-End-Design.<br><br>  
+### Competitive links : 
+<br>                                                    [    Codeforces   ](https://codeforces.com/profile/divyansh956) |
                                      [  Codechef     ](https://www.codechef.com/users/divyansh_956)               |                 [    Leetcode    ](https://leetcode.com/divyansh956/)                              <br><br>
 
 
