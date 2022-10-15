@@ -7,13 +7,13 @@
 ### -> Currently Learning Data Science <br>
 ### -> Looking for Collaboration in Front-End-Design.<br><br>  
 ### Competitive links : 
-<br>                                                 <a href="https://www.codechef.com/users/divyansh_956" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="divyansh_956" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/divyansh956" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="divyansh956" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/divyansh956" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="1806manan" height="30" width="40" /></a>
+<br>                                                 <a href="https://www.codechef.com/users/divyansh_956" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="divyansh_956" height="50" width="50" /></a>
+<a href="https://codeforces.com/profile/divyansh956" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="divyansh956" height="50" width="50" /></a>
+<a href="https://www.leetcode.com/divyansh956" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="1806manan" height="50" width="50" /></a>
 <br><br>
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 <a href="https://www.linkedin.com/in/divyansh-saxena-478672224/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="divyansh" height="30" width="40" /></a>
 <a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="divyansh956" height="30" width="40" /></a>
 
