@@ -56,5 +56,4 @@
 
 ---
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=divyansh956&bg_color=000000&color=00ff11&line=1dfa00&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=divyansh956&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
