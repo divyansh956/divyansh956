@@ -6,8 +6,6 @@
 ---
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=700&color=F76D2C&background=000000&vCenter=true&width=470&lines=I+am+Divyansh+Saxena;I+am+a+Front+End+Developer.;My+Passion+is+Competitive+Programming.+)](https://git.io/typing-svg)<br>
 
-### -> Currently Learning Data Science <br>
-### -> Looking for Collaboration in Front-End-Design.<br><br> 
 ### 🔗 Competitive links : 
 <br>                       
 
