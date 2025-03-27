@@ -6,16 +6,6 @@
 ---
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=700&color=F76D2C&background=000000&vCenter=true&width=470&lines=I+am+Divyansh+Saxena;I+am+a+Full+Stack+Developer.;My+Passion+is+Competitive+Programming.+)](https://git.io/typing-svg)<br>
 
-### 🔗 Competitive links : 
-<br>                       
-
-<a href="https://www.codechef.com/users/divyansh966" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="divyansh_956" height="50" width="50" /></a>
-<a href="https://codeforces.com/profile/divyansh956" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="divyansh956" height="50" width="50" /></a>
-<a href="https://www.leetcode.com/divyansh956" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="1806manan" height="50" width="50" /></a>
-
-<br><br>
-
-
 # 🌐 Socials:
 
 <a href="https://www.linkedin.com/in/divyansh-saxena-478672224/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="divyansh" height="30" width="40" /></a>
